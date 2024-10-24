@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  /* font-family: "Montserrat"; */
+ 
+  font-weight: normal;
+}
+
+
